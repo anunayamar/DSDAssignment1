@@ -1,0 +1,15 @@
+Tue Oct 13 12:07:53 EDT 2015: Simon Myers has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Gretchen Harper has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Faye Higgins has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Holly Williams has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Leticia Hart has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Emmett Arnold has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Timothy Austin has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Tamara Cook has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Forrest Wade has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: Kelly Hammond has initiated a request to open an account at BMO
+Tue Oct 13 12:07:53 EDT 2015: AccountNumber:S10001 has initiated a loan request for 300.0 at BMO
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:G10002 has initiated a loan request for 300.0 at BMO
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:F10003 has initiated a loan request for 300.0 at BMO
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:H10004 has initiated a loan request for 300.0 at BMO
+Tue Oct 13 12:07:54 EDT 2015: BMO server entered exportServer

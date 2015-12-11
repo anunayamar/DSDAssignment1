@@ -1,0 +1,15 @@
+Tue Oct 13 12:07:53 EDT 2015: Flora Rice has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Lillian Chambers has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Gertrude Webb has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Dale Jones has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Roxanne Figueroa has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Ricardo Casey has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Bert Duncan has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Ron Mcdonald has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Lorena Wells has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: Kayla Massey has initiated a request to open an account at TD
+Tue Oct 13 12:07:53 EDT 2015: AccountNumber:F10001 has initiated a loan request for 300.0 at TD
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:L10002 has initiated a loan request for 300.0 at TD
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:G10003 has initiated a loan request for 300.0 at TD
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:D10004 has initiated a loan request for 300.0 at TD
+Tue Oct 13 12:07:54 EDT 2015: TD server entered exportServer

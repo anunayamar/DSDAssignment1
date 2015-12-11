@@ -1,0 +1,2 @@
+Tue Oct 13 12:12:59 EDT 2015 : Manager has initated a request to print customer and loan information
+Tue Oct 13 12:12:59 EDT 2015 : Manager request to print customer and loan information has succeed.

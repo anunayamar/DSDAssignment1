@@ -1,0 +1,17 @@
+Tue Oct 13 12:07:53 EDT 2015: Mack Torres has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Cameron Jordan has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Terence Schwartz has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Johnathan Morales has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Melody Maxwell has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Gerard Andrews has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Nicolas Goodman has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Claude Thornton has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Debbie Potter has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: Sylvester Warner has initiated a request to open an account at RBC
+Tue Oct 13 12:07:53 EDT 2015: AccountNumber:M10001 has initiated a loan request for 300.0 at RBC
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:C10002 has initiated a loan request for 300.0 at RBC
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:T10003 has initiated a loan request for 300.0 at RBC
+Tue Oct 13 12:07:54 EDT 2015: AccountNumber:J10004 has initiated a loan request for 300.0 at RBC
+Tue Oct 13 12:07:54 EDT 2015: RBC server entered exportServer
+Tue Oct 13 12:10:17 EDT 2015: anunay amar has initiated a request to open an account at RBC
+Tue Oct 13 12:12:59 EDT 2015: Manager has initiated a request for printing customer information at RBC
